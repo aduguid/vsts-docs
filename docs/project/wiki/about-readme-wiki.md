@@ -47,7 +47,7 @@ You can provide guidance to your team in these places using Markdown:
 ::: moniker range="vsts"   
   
 - [Team project wiki (provisioned wiki)](add-edit-wiki.md)
-- [Pulbish code as wiki](publish-repo-to-wiki.md)
+- [Publish code as wiki](publish-repo-to-wiki.md)
 - [Add Markdown to a dashboard](../../report/dashboards/add-markdown-to-dashboard.md)  
 - [Project vision page or Welcome pages](project-vision-status.md)    
 - [Repository Readme files](../../git/create-a-readme.md) 
